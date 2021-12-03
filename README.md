@@ -25,12 +25,18 @@
 # 사용기술
 Android
 - Kotlin, Java
-- Koin
-- RxBus
+- Koin, Dagger
+- RxJava, RxBus
 - MVC, MVVM Pattern
+- Clean Architecture
+- Coroutine
 - DataBinding
-- Lottie
+- Lottie, Glide
 - Retrofit
-- FireBase
+- FireBase (FCM, Crashlytics)
+- WebRTC
+- Socket Closter
+- Map, Push, BLE
+- GitHub, Bitbucket
 
 # 프로젝트
