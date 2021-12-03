@@ -27,3 +27,8 @@ Android
 - RxBus
 - MVC, MVVM Pattern
 - DataBinding
+- Lottie
+- Retrofit
+- FireBase
+
+# 프로젝트
