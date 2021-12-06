@@ -54,6 +54,7 @@ Android
 - 소개 : 1인 라디오 방송 플랫폼
 - 기간 : 2019. 11 ~ 2021. 04
 - 방송방 UI 및 채팅기능, 음원 녹음 및 청취 플레이어 기능, 메세지 전송, 아이템 선물 기능 개발
+- [스크린샷](https://mini-friend-f3f.notion.site/7e039c4f5ef04fa897f15935a10309ef "달빛 라이브 노션")
 
 [유디션](https://play.google.com/store/apps/details?id=com.donuts.udition "유디션 구글 플레이")
 - 소개 : 개인 오디션 프로필(영상 등) 등록 및 엔터 회사와의 연결 플랫폼
