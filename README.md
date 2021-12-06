@@ -53,10 +53,32 @@ Android
 [달빛 라이브](https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject "달빛 라이브 구글 플레이")
 - 소개 : 1인 라디오 방송 플랫폼
 - 기간 : 2019. 11 ~ 2021. 04
-- 방송방 전체 UI 및 채팅기능, 음원 녹음 및 청취 플레이어 기능, 메세지 전송, 아이템 선물 기능 개발
-- 
+- 방송방 UI 및 채팅기능, 음원 녹음 및 청취 플레이어 기능, 메세지 전송, 아이템 선물 기능 개발
 
+[유디션](https://play.google.com/store/apps/details?id=com.donuts.udition "유디션 구글 플레이")
+- 소개 : 개인 오디션 프로필(영상 등) 등록 및 엔터 회사와의 연결 플랫폼
+- 기간 : 2019 ~ 2019. 08
 
+[러브프로프즈](https://play.google.com/store/apps/details?id=com.donuts.lovepropose "러브프로포즈 구글 플레이")
+- 소개 : 커플 D-Day 관리 및 이벤트 스케줄 등록 알림, 인스타 연동, 내 커플 인스타 홍보 플랫폼
+- 기간 : 2019 ~ 2019. 08
 
+[마이라이브](https://play.google.com/store/apps/details?id=com.donutskorea.live "마이라이브 구글 플레이")
+- 소개 : 연예 지망생 라이브 방송 오디션 플랫폼
+- 기간 2019 ~ 2019. 08
+- 마이라이브 앱 유지보수
 
+[Wishpoke](https://play.google.com/store/apps/details?id=com.wishpoke.wishpoke "Wishpoke 구글 플레이")
+- 소개 : SNS 형식의 프로필에 원하는 선물 또는 장소, 음식등을 친구와 공유하고 링크로 구매, 선물 하는 플랫폼
+- 기간 2018. 11 ~ 2019. 04
+- 프리랜서, 기존 앱 업데이트 작업 참여
 
+우리동네 Vpay
+- 소개 : 개인 소상업인들의 pay 결제 서비스 제공
+- 기간 : 2018. 11 ~ 2019. 08
+- 프리랜서, 기존 앱 업데이트 및 유지보수
+- 현재 스토어에서 삭제됨
+
+[코클](https://play.google.com/store/apps/details?id=kr.cocle.cocleparent "코클 구글 플레이")
+- 소개 : 코딩클라우드 학부모용 관리 앱
+- 기간 : 2018 ~ 2018. 09
