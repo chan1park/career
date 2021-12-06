@@ -6,8 +6,6 @@
 - Github : github.com/chan1park
 - 취미 : 운동, 영화감상, 음악, 캠핑, 여행
 
-
-
 # 경력
 - (주)인포렉스 (현재 회사명 여보야) (2019. 09 ~ 2021. 04)
 - (주)도너츠 (2019. 05 ~ 2019. 08)
@@ -26,11 +24,9 @@
 # 사용기술
 Android
 - Kotlin, Java
-- Koin, Dagger
-- RxJava, RxBus
+- Koin
+- RxBus
 - MVC, MVVM Pattern
-- Clean Architecture
-- Coroutine
 - DataBinding
 - Lottie, Glide
 - Retrofit
@@ -40,4 +36,14 @@ Android
 - Map, Push, BLE
 - GitHub, Bitbucket
 
+# TODO
+현재 아래의 내용을 익히고있습니다.
+- Dagger
+- Coroutine
+- RxJava
+- Clean Architecture
+
 # 프로젝트
+- 달빛 라이브
++ Android Developer
+
