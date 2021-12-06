@@ -46,6 +46,7 @@ Android
 # Work
 기본적으로 아래의 내용들을 업무에 사용했습니다.
 - 버전관리 : GitHub, Bitbucket
+- 관리툴 : SourceTree
 - 디자인 협업 : Zeplin
 - 모니터링 : Fabric / Google Analytics / FireBase
 - 커뮤니케이션 : Slack, Trello
