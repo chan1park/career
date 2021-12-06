@@ -4,7 +4,6 @@
 - 박찬일 PARK CHAN IL
 - Email : cypark0612@gmail.com
 - Github : github.com/chan1park
-- 취미 : 운동, 영화감상, 음악, 캠핑, 여행
 
 # 경력
 - (주)인포렉스 (현재 회사명 여보야) (2019. 09 ~ 2021. 04)
@@ -35,7 +34,6 @@ Android
 - Socket Closter
 - Map, Push, BLE
 
-
 # TODO
 현재 아래의 내용을 익히고있습니다.
 - Dagger
@@ -52,8 +50,10 @@ Android
 - 커뮤니케이션 : Slack, Trello
 
 # 프로젝트
-달빛 라이브
-- 소개 : 1인 라디오 방송 플랫폼, 음성 방송 및 실시간 채팅, 팬관리, 선물 주고받기 등
+달빛 라이브 [dalbitlink]: https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject "달빛 라이브 구글 플레이"
+- 소개 : 1인 라디오 방송 플랫폼
+- 기간 : 2019. 11 ~ 2021. 04
+- 방송방 전체 UI 및 채팅기능, 음원 녹음 및 청취 플레이어 기능, 메세지 전송, 아이템 선물 기능 개발
 - 
 
 
