@@ -49,7 +49,7 @@ Android
 - 모니터링 : Fabric / Google Analytics / FireBase
 - 커뮤니케이션 : Slack, Trello
 
-# 프로젝트
+# Project
 [달빛 라이브](https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject "달빛 라이브 구글 플레이")
 - 소개 : 1인 라디오 방송 플랫폼
 - 기간 : 2019. 11 ~ 2021. 04
