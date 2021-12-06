@@ -1,5 +1,11 @@
 # 소개
 ![myphoto](https://user-images.githubusercontent.com/8411991/144572575-8e150301-30df-4eca-b8b7-bc38840035b9.PNG)
+반갑습니다.
+저는 박찬일 입니다.
+
+6년차 안드로이드 개발자로 일하고 있으며 항상 즐겁게 일하고자 합니다.
+수동적이기보다 능동적으로, 주도적으로 업무를 진행하는것을 선호합니다.
+
 - 박찬일 PARK CHAN IL
 - Email : cypark0612@gmail.com
 - Github : github.com/chan1park
