@@ -50,7 +50,7 @@ Android
 - 커뮤니케이션 : Slack, Trello
 
 # 프로젝트
-달빛 라이브 [dalbitlink]: https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject "달빛 라이브 구글 플레이"
+[달빛 라이브](https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject "달빛 라이브 구글 플레이")
 - 소개 : 1인 라디오 방송 플랫폼
 - 기간 : 2019. 11 ~ 2021. 04
 - 방송방 전체 UI 및 채팅기능, 음원 녹음 및 청취 플레이어 기능, 메세지 전송, 아이템 선물 기능 개발
