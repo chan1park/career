@@ -35,6 +35,7 @@ Android
 
 # TODO
 현재 아래의 내용을 익히고있습니다.
+- MVVM, MVP Pattern
 - Dagger
 - Coroutine
 - RxJava
